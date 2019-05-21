@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+CTYPE html>
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
@@ -12,3 +12,4 @@
         </form>
     </body>
 </html>
+
